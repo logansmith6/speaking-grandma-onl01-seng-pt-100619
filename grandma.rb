@@ -20,7 +20,7 @@
 #    puts "NO, NOT SINCE 1938!"
 #  end
 #
-
+string = "HI GRANDMA"
 def speak_to_grandma(string)
   if string == string.uppercase
     return "NO, NOT SINCE 1938!"
