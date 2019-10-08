@@ -25,5 +25,5 @@ def speak_to_grandma(string)
   if string == string.uppercase
     puts "NO, NOT SINCE 1938!"
     return "NO, NOT SINCE 1938!"
-  
+
   end
