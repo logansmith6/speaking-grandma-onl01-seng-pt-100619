@@ -21,7 +21,7 @@
 #  end
 #
 
-def speak_to_grandma(string)
+def speak_to_grandma(string = "HI GRANDMA")
   if string == string.upcase
     puts "NO, NOT SINCE 1938!"
     return "NO, NOT SINCE 1938!"
